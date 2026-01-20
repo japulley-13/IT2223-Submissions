@@ -2,3 +2,5 @@
 Jenna Pulley's repository for submissions for IT2223 class.
 
 # [Chapter 2](Chapter-2)
+- [Hop](Chapter-2/Hop)
+- [Hop1](Chapter-2/Hop1)
