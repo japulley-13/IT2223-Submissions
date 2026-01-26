@@ -1,24 +1,18 @@
-/* External CSS file for Chapter 3 Assignment */
-
-/* Base document styles */
 body {
-    background-color: white; /* initial background */
-    color: #000099;          /* initial text color */
+    background-color: black;
+    color: white;
     font-family: Arial, Helvetica, sans-serif;
 }
 
-/* Hyperlink styles */
 a {
-    background-color: #CCCCCC; /* gray background for links */
+    background-color: #CCCCCC;
 }
 
-/* H1 styles */
 h1 {
     font-family: "Times New Roman", Times, serif;
-    color: black;
+    color: #CCCCCC;
 }
 
-/* News class */
 .news {
     color: red;
     font-style: italic;
