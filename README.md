@@ -7,6 +7,12 @@ Jenna Pulley's repository for submissions for IT2223 class.
 - [Assignment1](Chapter-2/Assignment-1)
 
 # [Chapter 3](Chapter-3)
+- [Hop 3.1](ch3/hop-3.1)
+- [Hop 3.2](ch3/hop-3.2)
+- [Hop 3.4](ch3/hop-3.4)
+- [Hop 3.5](ch3/hop-3.5)
+- [Hop 3.6](ch3/hop-3.6)
+- [Hop 3.8](ch3/hop-3.8)
 - [Assignment2Part1](Chapter3/Chapter3Assignment/advantage)
 - [Assignment2Part2](Chapter3/Chapter3Assignment/advantage2)
 
