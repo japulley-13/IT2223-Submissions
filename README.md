@@ -7,8 +7,8 @@ Jenna Pulley's repository for submissions for IT2223 class.
 - [Assignment1](Chapter-2/Assignment-1)
 
 # [Chapter 3](Chapter-3)
-- [Assignment%20Part%201](Chapter-3/Chatper-3-Assignment/advantage)
-- [Assignment%20Part%202](Chapter-3/Chapter-3-Assignment/advantage2)
+- [Assignment 2 Part 1](Chapter-3/Chatper-3-Assignment/advantage)
+- [Assignment 2 Part 2](Chapter-3/Chapter-3-Assignment/advantage2)
 
 # Group Project
 
