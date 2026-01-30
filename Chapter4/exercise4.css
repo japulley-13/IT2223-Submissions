@@ -6,29 +6,29 @@ footer {
     border: 1px dashed darkblue;
 }
 
-/* CSS for an ID named notice */
+/* 2. ID notice */
 #notice {
     width: 80%;
-    margin: 0 auto; /* centers the element */
+    margin: 0 auto;
 }
 
-/* CSS for a class with a headline and dotted underline */
+/* 3. Headline class with dotted underline */
 .headline {
-    color: #ff6600; /* choose a color you like */
+    color: #ff6600;
     border-bottom: 2px dotted #ff6600;
     padding-bottom: 5px;
 }
 
-/* CSS for h1 with drop-shadow, semi-transparent background, sans-serif font, 4em size */
+/* 4. H1 with drop shadow and semi-transparent background */
 h1 {
     font-family: sans-serif;
     font-size: 4em;
     text-shadow: 2px 2px 5px gray;
-    background-color: rgba(173, 216, 230, 0.5); /* light blue, 50% transparent */
+    background-color: rgba(173, 216, 230, 0.5);
     padding: 10px;
 }
 
-/* CSS for an ID named section */
+/* 5. ID section */
 #section {
     font-family: Arial, sans-serif;
     font-size: small;
