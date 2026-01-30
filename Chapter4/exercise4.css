@@ -1,0 +1,41 @@
+footer {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+    color: darkblue;
+    padding: 10px;
+    border: 1px dashed darkblue;
+}
+
+/* CSS for an ID named notice */
+#notice {
+    width: 80%;
+    margin: 0 auto; /* centers the element */
+}
+
+/* CSS for a class with a headline and dotted underline */
+.headline {
+    color: #ff6600; /* choose a color you like */
+    border-bottom: 2px dotted #ff6600;
+    padding-bottom: 5px;
+}
+
+/* CSS for h1 with drop-shadow, semi-transparent background, sans-serif font, 4em size */
+h1 {
+    font-family: sans-serif;
+    font-size: 4em;
+    text-shadow: 2px 2px 5px gray;
+    background-color: rgba(173, 216, 230, 0.5); /* light blue, 50% transparent */
+    padding: 10px;
+}
+
+/* CSS for an ID named section */
+#section {
+    font-family: Arial, sans-serif;
+    font-size: small;
+    color: red;
+    background-color: #f0f0f0;
+    width: 80%;
+    margin: 10px auto;
+    padding: 10px;
+    box-shadow: 3px 3px 5px gray;
+}
