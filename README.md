@@ -22,7 +22,8 @@ Jenna Pulley's repository for submissions for IT2223 class.
 - [Hop 4.7-4.9](Chapter4/Hop-4.7-4.9)
 
 # [Chapter 6](Chapter-6)
-- [Chapter6Assignment](Chapter6/Exercise)
+- [Chapter6Assignment](Chapter6/Assignment1)
+- [Chapter6Assignment](Chapter6/Assignment2)
 - [Hop 6.2](Chapter6/HOPs/Hop-6.2)
 - [Hop 6.3](Chapter6/HOPs/Hop-6.3)
 - [Hop 6.4](Chapter6/HOPs/Hop-6.4)
