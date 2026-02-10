@@ -17,3 +17,8 @@ a:hover {
     color: #000;
     text-decoration: none;
 }
+
+/* Active hyperlink (when clicked) */
+a:active {
+    color: #ff6f00;
+}
