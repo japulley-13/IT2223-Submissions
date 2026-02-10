@@ -1,15 +1,17 @@
-/* Link styles */
+/* Unvisited hyperlink */
 a:link {
     background-color: #e3f2fd;
     color: #0d47a1;
     text-decoration: underline;
 }
 
+/* Visited hyperlink */
 a:visited {
     background-color: #ede7f6;
     color: #4a148c;
 }
 
+/* Hover hyperlink */
 a:hover {
     background-color: #bbdefb;
     color: #000;
