@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Lighthouse Mobile Demo</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<style>
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-image: url(images/lighthouselogo.jpg);
+    background-repeat: no-repeat;
+    padding-left: 120px;
+    height: 100px;
+}
+
+nav {
+    float: left;
+    width: 150px;
+}
+
+main {
+    margin-left: 160px;
+}
+
+@media only screen and (max-width: 600px) {
+
+    nav {
+        float: none;
+        width: 100%;
+    }
+
+    main {
+        margin-left: 0;
+    }
+
+    header {
+        background-image: url(mobile/images/mobilelogo.jpg);
+        padding-left: 0;
+        text-align: center;
+    }
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>Lighthouse Island Bistro</h1>
+</header>
+
+<nav>
+<p>Home</p>
+<p>Menu</p>
+<p>Map</p>
+<p>Contact</p>
+</nav>
+
+<main>
+<img src="images/lighthouseisland.jpg" width="300" alt="Lighthouse">
+<p>Visit our scenic lighthouse location!</p>
+</main>
+
+</body>
+</html>
