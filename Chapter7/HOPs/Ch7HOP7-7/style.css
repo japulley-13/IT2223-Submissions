@@ -1,0 +1,17 @@
+body {
+    background-color: #e6ecff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#wrapper {
+    width: 70%;
+    margin: auto;
+    background-color: white;
+    padding: 20px;
+    border: 2px solid #003366;
+}
+
+h1 {
+    text-align: center;
+    color: #003366;
+}
