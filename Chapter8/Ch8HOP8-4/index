@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<title>Hands-On Practice 8.3</title>
+<title>Hands-On Practice 8.4</title>
 <style>
 table {
   margin: auto;
@@ -24,8 +24,13 @@ caption {
   padding-bottom: 0.5em;
 }
 
-.altrow {
+tr:nth-of-type(even) {
   background-color: #EAEAEA;
+}
+
+tr:first-of-type {
+  background-color: #006;
+  color: #EAEAEA;
 }
 </style>
 </head>
@@ -40,7 +45,7 @@ caption {
 <th>Price</th>
 </tr>
 
-<tr class="altrow">
+<tr>
 <td>Lite Latte</td>
 <td>Indulge in a shot of espresso with steamed, skim milk.</td>
 <td>$3.50</td>
@@ -52,7 +57,7 @@ caption {
 <td>$4.00</td>
 </tr>
 
-<tr class="altrow">
+<tr>
 <td>MCP Latte</td>
 <td>A luscious mocha latte with caramel and pecan syrup.</td>
 <td>$4.50</td>
