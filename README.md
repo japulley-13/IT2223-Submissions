@@ -35,5 +35,10 @@ Jenna Pulley's repository for submissions for IT2223 class.
 - [Hop 7.7](Chapter7/HOPs/Ch7HOP7-7)
 - [Mobile](Chapter7/mobile)
 
+# [Chapter 8](Chapter-8)
+- [Hop 8.2](Chapter7/Ch8HOP8-2)
+- [Hop 8.3](Chapter7/Ch8HOP8-3)
+- [Hop 8.4](Chapter7/Ch8HOP8-4)
+
 # Group Project
 
