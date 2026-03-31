@@ -40,5 +40,10 @@ Jenna Pulley's repository for submissions for IT2223 class.
 - [Hop 8.3](Chapter8/Ch8HOP8-3/index.html)
 - [Hop 8.4](Chapter8/Ch8HOP8-4/index.html)
 
+# [Chapter 9](Chapter-9)
+- [Hop 8.2](Chapter8/Ch8HOP8-2/index.html)
+- [Hop 8.3](Chapter8/Ch8HOP8-3/index.html)
+- [Hop 8.4](Chapter8/Ch8HOP8-4/index.html)
+
 # Group Project
 
