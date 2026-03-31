@@ -42,7 +42,10 @@ Jenna Pulley's repository for submissions for IT2223 class.
 
 # [Chapter 9](Chapter-9)
 - [Chapter 9 Assignment](Chapter9/Chapter9Assignment)
-- [Hop 9.2 9.4-9.6](Chapter9/HOPs)
+- [HOP 9.2](Chapter9/HOPs/Ch9HOP9-2/index.html)
+- [HOP 9.4](Chapter9/HOPs/Ch9HOP9-4/index.html)
+- [HOP 9.5](Chapter9/HOPs/Ch9HOP9-5/index.html)
+- [HOP 9.6](Chapter9/HOPs/Ch9HOP9-6/index.html)
 
 # Group Project
 
